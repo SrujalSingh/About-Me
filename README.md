@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Srujal Singh 👋
 
 I'm a passionate developer with a keen interest in cybersecurity, networking, and server management. I love working on projects that challenge me to learn new skills and improve my existing ones.
 
