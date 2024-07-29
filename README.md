@@ -12,9 +12,9 @@ I'm a passionate developer with a keen interest in cybersecurity, networking, an
 
 ## 📫 How to reach me
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **Twitter:** [Your Twitter Handle](#)
+- **Email:** [ srujalsingh123@gmail.com ]
+- **LinkedIn:** [ www.linkedin.com/in/srujalsingh123 ]
+- **Twitter:** [ NA ]
 
 ## 🌱 Currently Learning
 
